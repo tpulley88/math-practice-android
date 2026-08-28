@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Math Practice</string>
+    <string name="selectTextbook">Please select a practice set:</string>
+    <string name="type_your_name_here">Type your name here</string>
+    <string name="enter_your_name">Enter your name:</string>
+    <string name="math_practice_guide">Math Practice Guide</string>
+    <string name="checkButton">Check button</string>
+</resources>
